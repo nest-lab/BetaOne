@@ -1,0 +1,1 @@
+This is the magazine for the Bootcamp's first challenge, when hashing it will be viewed in comparison to the letter text document and the result wil be used in concluding solutions to the task
